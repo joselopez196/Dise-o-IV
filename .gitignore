@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+local.properties
+*.iml
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+desktop.ini
+Thumbs.db
