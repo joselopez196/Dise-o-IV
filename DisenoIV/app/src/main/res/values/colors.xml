@@ -1,0 +1,5 @@
+<resources>
+    <color name="azul_texto">#1B4FCC</color>
+    <color name="rojo_borde">#E53935</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
